@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vicky!
 - I’m interested in becoming a technical writer
-- I’m currently learning how to use Github
+- I’m currently learning how to contribute to open source projects
 - You can reach me at vickymak246@gmail.com 🙂 
 
 <!---
